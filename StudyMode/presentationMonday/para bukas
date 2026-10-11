@@ -1,0 +1,30 @@
+questions
+
+nothing will happen and will just work as intended
+
+intendedf super was remove 
+from child the constructor 
+from child will have an error 
+because the child doesnt have the way to get the 
+contructor or the 
+field no more
+
+abstract preventing me to make a new for parent class
+why?
+because I want my child classes to have its own implementation
+
+If i remove abstract it will be an error and it contains an abstract method
+so removing abstract requires changing class or method
+
+If I remove inheritance the subclass will 
+fail or become an error because it must have an extend to inherit the display inherit InfoDisplay and to use the constructor or the 
+fields 
+
+and the pillars i can remove is encapsulation and poymorphism
+and the code will still work --
+"""
+encapsulation or private field will still work even if 
+its set to public 
+
+
+"""
